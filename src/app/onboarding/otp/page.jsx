@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FaArrowLeftLong } from "react-icons/fa6";
 import Otp from "@/assets/otp.svg";
 import Image from "next/image";
-import { useState } from "react";
+import react, { useState } from "react";
 import OtpInput from "@/components/onboarding/OtpInput";
 
 function page() {
